@@ -137,7 +137,8 @@ textarea:focus,
 select:focus,
 button:focus {
     outline: 3px solid #005d8f;
-}
+    transition: 0.5s;
+} 
 
 input::placeholder,
 .copyright,
